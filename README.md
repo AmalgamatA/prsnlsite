@@ -1,2 +1,3 @@
 # prsnlsite
 group projects for PERSONAL resume site? sigh... whatev...
+So Im going to try to do this "personal," quite public, site. If you're added on here its because this is the site as it should be. I was not acquainted with github, and so I was unsure as to what to do. Thus so, I created other respostories in error. This, is going to be thew actual repository now.
